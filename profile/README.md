@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/avatar_transparent.png" width="300" margin-bottom="-50px"/>
+<img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/avatar_transparent.png" width="300"/>
 
 #### **A next-generation, open-source sandbox developed by ov-studio**
 <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
