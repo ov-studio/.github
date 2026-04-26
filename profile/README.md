@@ -1,9 +1,12 @@
-![](https://raw.githubusercontent.com/ov-studio/.github/main/profile/banner.png)
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/avatar.png" width="520"/>
+
 #### **A next-generation, open-source sandbox developed by ov-studio**
 <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
+
+<img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/banner.png"/>
 
 [![License](https://img.shields.io/badge/License-Open--Source-3A7D44?style=flat-square&logo=apache&logoColor=white)](https://github.com/ov-studio/Vital.sandbox/blob/main/LICENSE)
 [![Engine](https://img.shields.io/badge/Engine-Godot--Engine-2F6DB3?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org)
