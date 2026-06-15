@@ -15,8 +15,10 @@
 
 ##
 
-We are the team behind **Vital.sandbox**, operating under **ov-studio** — a focused group of engineers and creators with a strong foundation in systems engineering and real-world product development.
+We are the team behind **Vital.sandbox**, operating under **ov-studio** — a small but growing group of passionate developers and engineers with a strong foundation in systems engineering and real-world product development.
 
-Our approach is disciplined and execution-driven. We prioritize performance, control, and long-term scalability, making deliberate engineering decisions to ensure reliability in production environments.
+We got tired of choosing between "fast" and "free", "powerful" and "documented", "works" and "actually works" — so we decided to build something that doesn't make you choose. We prioritize performance, control, and long-term scalability, making deliberate decisions to ensure things actually hold up in the real world.
 
-Across engine-level systems, tooling, and developer workflows, we maintain a consistent standard: **deliver robust, high-quality technology without unnecessary complexity.**
+No bloat. No black boxes. No "contact sales for pricing." Just developers who believe open source deserves serious engineering — and serious engineering shouldn't cost you a kidney.
+
+We build things we'd actually want to use ourselves. Come build something with us. 🚀
