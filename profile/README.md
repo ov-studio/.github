@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
-  <img width="285" height="285" alt="logo-neon-bg-sq-round" src="https://github.com/user-attachments/assets/a2ceb63d-e4d1-482c-9b5e-ae5fca3d6eb1"/>
-  
+  <img width="2000" height="600" alt="logo-neon-bg-round" src="https://github.com/user-attachments/assets/55bc81de-9219-4110-b016-daf48e7c9f65" />
+
   #### **An open-source, high-performance sandbox built on Godot<br/>Script It &nbsp;&nbsp;— &nbsp;&nbsp;Ship It &nbsp;&nbsp;— &nbsp;&nbsp;Limitless**
   <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
   
