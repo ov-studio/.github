@@ -1,3 +1,4 @@
+<img width="760" height="760" alt="logo-neon-bg-sq-round" src="https://github.com/user-attachments/assets/a2ceb63d-e4d1-482c-9b5e-ae5fca3d6eb1" />
 <div align="center">
   <br/>
   <img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/avatar_transparent_fit.png" width="285"/>
