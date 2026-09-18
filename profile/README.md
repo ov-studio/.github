@@ -1,7 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/avatar_transparent_fit.png" width="285"/>
-  
+<img width="2000" height="600" alt="logo-neon-transparent-round" src="https://github.com/user-attachments/assets/19509de2-7b79-49ad-bc0f-b2be5006f29f" />
   #### **An open-source, high-performance sandbox built on Godot<br/>Script It &nbsp;&nbsp;— &nbsp;&nbsp;Ship It &nbsp;&nbsp;— &nbsp;&nbsp;Limitless**
   <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
   
