@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/ov-studio/.github/main/profile/logo/logo_neon_transparent.png"/>
+  <img src="https://vital-sandbox.com/logo/neon_background_round.png"/>
 
   #### **An open-source, high-performance sandbox built on Godot<br/>Script It &nbsp;&nbsp;— &nbsp;&nbsp;Ship It &nbsp;&nbsp;— &nbsp;&nbsp;Limitless**
   <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
