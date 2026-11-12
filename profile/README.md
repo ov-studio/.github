@@ -6,6 +6,7 @@
 
   [![Website](https://img.shields.io/badge/Website-Vital.sandbox-CFD8DC?style=flat-square&logo=googlechrome&logoColor=white)](https://vital-sandbox.com)
   [![Discord](https://img.shields.io/badge/Discord-Community-404EED?style=flat-square&logo=discord&logoColor=white)](https://discord.vital-sandbox.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-Community-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ov-community)
 </div>
 
 ##
