@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://vital-sandbox.com/logo/neon_background_round.png"/>
+  <img src="https://vital-sandbox.com/banner/banner.png"/>
 
   <sub>Founded & maintained by Aviril, Mario, Tron, Anisa & A-Variakojiene</sub>
   
