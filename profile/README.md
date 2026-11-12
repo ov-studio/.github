@@ -21,10 +21,10 @@ No bloat. No black boxes. No contact sales for pricing. Just developers who beli
 
 | Repository | What it does |
 | :--- | :--- |
+| [**Vital.site**](https://github.com/ov-studio/Vital.site) | Docs and resource hub — everything you need to build with confidence |
 | [**Vital.sandbox**](https://github.com/ov-studio/Vital.sandbox) | High-performance sandbox built on Godot-Engine and powered by C++17 & Lua |
 | [**Vital.kit**](https://github.com/ov-studio/Vital.kit) | Handy utilities that extend and complement the ecosystem |
 | [**Vital.wry**](https://github.com/ov-studio/Vital.wry) | Official Godot WRY extension, written in Rust |
-| [**Vital.site**](https://github.com/ov-studio/Vital.site) | Docs and resource hub — everything you need to build with confidence |
 | [**Vital.vault**](https://github.com/ov-studio/Vital.vault) | Community-driven vault for sharing what you've made |
 | [**Vital.news**](https://github.com/ov-studio/Vital.news) | Project updates, announcements, and release notes |
 
