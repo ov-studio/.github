@@ -1,11 +1,14 @@
 <div align="center">
   <img src="https://vital-sandbox.com/banner/banner_round.png"/>
   
+  <br/>
+  <br/>
+
   [![Website](https://img.shields.io/badge/Website-Vital.sandbox-CFD8DC?style=flat-square&logo=googlechrome&logoColor=white)](https://vital-sandbox.com)
   [![Discord](https://img.shields.io/badge/Discord-Community-404EED?style=flat-square&logo=discord&logoColor=white)](https://discord.vital-sandbox.com)
 </div>
 
-<br/>
+##
 
 We are the team behind **Vital.sandbox**, operating under **ov-studio** — a small but growing group of passionate developers and engineers who care deeply about open source and the people building with it.
 
